@@ -4,7 +4,7 @@ class PigLatinizer
     st = text.split('')
     
     if st.first == "/[^AEIOUaeiou]/"
-      st[0] = st
+      st[0] = st[-1]
     end 
     
   end 
