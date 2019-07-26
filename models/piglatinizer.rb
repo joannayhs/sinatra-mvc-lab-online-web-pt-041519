@@ -1,7 +1,7 @@
 class PigLatinizer 
  
   def piglatinize(text)
-    st =
+    st = text.gsub(" ", '')
   end 
   
 end 
