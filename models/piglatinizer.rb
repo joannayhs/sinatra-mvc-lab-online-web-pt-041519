@@ -1,7 +1,7 @@
 class PigLatinizer 
  
   def piglatinize(text)
-    st = text.split(" ", '')
+    st = text.split('')
   end 
   
 end 
