@@ -9,6 +9,7 @@ class PigLatinizer
       st[0] = st[-1] + "way" 
     end 
     
+    st
   end 
   
 end 
